@@ -1,0 +1,7 @@
+name: Steam Launcher
+package: steam-launcher
+version: 1.0.0
+description: Launch installed Steam games
+author: Riva Farabi
+license: MIT
+repository: "https://github.com/rivafarabi/steam-launcher"
