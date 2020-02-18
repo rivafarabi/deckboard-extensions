@@ -1,0 +1,7 @@
+name: Voicemeeter Control
+package: voicemeeter-control
+version: 1.0.0
+description: Control Voicemeeter through Deckboard
+author: Riva Farabi
+license: MIT
+repository: "https://github.com/rivafarabi/voicemeeter-control"
