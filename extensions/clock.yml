@@ -1,6 +1,6 @@
 name: Clock
 package: deckboard-clock
-version: 1.0.0
+version: 1.1.0
 description: Display clock on Deckboard button
 author: Riva Farabi
 license: MIT
