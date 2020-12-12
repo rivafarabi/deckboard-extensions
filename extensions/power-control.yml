@@ -2,5 +2,6 @@ name: Power Control
 package: power-control
 description: Shutdown and restart the PC through Deckboard
 author: Riva Farabi
+version: 1.0.3
 license: MIT
 repository: 'https://github.com/rivafarabi/deckboard-power-control'
