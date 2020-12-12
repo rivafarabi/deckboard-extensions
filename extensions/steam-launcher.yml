@@ -1,6 +1,6 @@
 name: Steam Launcher
 package: steam-launcher
-version: 1.0.0
+version: 1.2.0
 description: Launch installed Steam games
 author: Riva Farabi
 license: MIT
