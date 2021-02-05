@@ -1,0 +1,7 @@
+name: Soundpad
+package: deckboard-soundpad
+version: 1.0.0
+description: Deckboard extension to control Soundpad
+author: Riva Farabi
+license: MIT
+repository: "https://github.com/rivafarabi/deckboard-soundpad"
