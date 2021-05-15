@@ -1,0 +1,7 @@
+name: Deckboard CallUrl
+package: deckboard-callurl
+version: 1.0.0
+description: Call Url without open browser in Deckboard
+author: Golpilolz
+license: MIT
+repository: "https://github.com/golpilolz/deckboard-callurl"
