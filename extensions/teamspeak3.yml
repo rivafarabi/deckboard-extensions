@@ -1,0 +1,7 @@
+name: TeamSpeak 3
+package: teamspeak3
+version: 1.0.0
+description: Allows you to interact with the TeamSpeak 3 Client via the ClientQuery.
+author: Smallinger(M.Schirrmann)
+license: MIT
+repository: 'https://github.com/smallinger/deckboard-teamspeak3'
