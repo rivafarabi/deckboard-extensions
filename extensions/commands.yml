@@ -1,0 +1,7 @@
+name: Commands
+package: deckboard-commands
+version: 1.0.0
+description: Run terminal commands on your PC through Deckboard
+author: Boris NL
+license: MIT
+repository: 'https://github.com/borisnliscool/deckboard-commands'
