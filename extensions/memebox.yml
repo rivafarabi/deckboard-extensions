@@ -1,6 +1,6 @@
 name: MemeBox
 package: memebox
-version: 1.0.0
+version: 1.0.1
 description: Deckboard extension for adding Memebox triggers
 author: Igor Ilic
 license: MIT
