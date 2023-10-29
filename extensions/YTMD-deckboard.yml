@@ -1,0 +1,8 @@
+name: YTMD-deckboard
+package: YTMD-deckboard
+version: 1.0.0
+description: An extension to interact with Youtube Music Desktop App through a
+  companion server provided by YTMD
+author: GSimken
+license: MIT
+repository: 'https://github.com/Gsimken/YTMD-deckboard'

@@ -1,0 +1,7 @@
+name: Docker Control
+package: deckboard-docker-control
+version: 1.0.0
+description: Manage Docker containers directly on Deckboard
+author: Andrea Lombardi
+license: MIT
+repository: "https://github.com/loombino/deckboard-docker-control"
