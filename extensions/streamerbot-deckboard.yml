@@ -1,6 +1,6 @@
 name: Streamer.bot Deckboard
 package: streamerbot-deckboard
-version: 0.0.1
+version: 0.1.0
 description: A plugin to execute Streamer.bot actions from Deckboard
 author: Riva Farabi
 license: MIT
