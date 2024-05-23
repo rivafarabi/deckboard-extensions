@@ -1,0 +1,7 @@
+name: CastMate
+package: castmate-deckboard
+version: 0.0.2
+description: Deckboard extension to trigger CastMate remotely
+author: LordTocs
+license: MIT
+repository: "https://github.com/LordTocs/CastMate-Deckboard"
