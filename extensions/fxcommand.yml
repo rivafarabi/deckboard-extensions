@@ -1,0 +1,7 @@
+name: Fx Command
+package: fxcommand
+version: 1.0.1
+description: Run commands like /emote or /me in your FiveM.
+author: Toine
+license: MIT
+repository: 'https://github.com/ToineYT/fxcommand'
