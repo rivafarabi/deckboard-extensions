@@ -1,6 +1,6 @@
 name: Fx Command
 package: fxcommand
-version: 1.0.1
+version: 1.0.4
 description: Run commands like /emote or /me in your FiveM.
 author: Toine
 license: MIT
