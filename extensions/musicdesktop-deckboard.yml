@@ -1,0 +1,7 @@
+name: MusicDesktop
+package: musicdesktop-deckboard
+description: MusicDesktop playback controls and live button values for Deckboard on Windows. Requires MusicDesktop 2.0.3 or later.
+author: Akyrais
+version: 2.0.3
+license: MIT
+repository: 'https://github.com/Azashiin/MusicDesktop-Deckboard'
